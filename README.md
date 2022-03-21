@@ -7,7 +7,7 @@ projeto 100% responsivo
  - CSS
  - JS
 
-Site caso queria ver o projeto : https://pedrohbraunn.github.io/mapadev-week-pokedex/
+Site caso você quiser ver o projeto : https://pedrohbraunn.github.io/mapadev-week-pokedex/
  ----
  ![pokemon1](https://user-images.githubusercontent.com/85997077/159379272-ff2f9d5c-d983-482f-ab55-5d5689671271.PNG)
 ----
