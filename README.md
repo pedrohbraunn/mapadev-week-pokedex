@@ -1,6 +1,6 @@
 # mapadev-week-pokedex
 ----
-## Projeto que eu fiz  que foi ensinado pelo Dev em Dobro Ultilizando as Seguintes ferramentas.
+# Projeto que eu fiz  que foi ensinado pelo Dev em Dobro Ultilizando as Seguintes ferramentas.
 projeto 100% responsivo
 ---
  - HTML
@@ -18,4 +18,8 @@ projeto 100% responsivo
 ![pokemon5](https://user-images.githubusercontent.com/85997077/159379330-fdcb401b-bd76-468d-a5e5-bbd820ee4b0b.PNG)
 ----
 ![pokemon6](https://user-images.githubusercontent.com/85997077/159379350-97adcc31-16b6-46d6-9b77-ee06ae663546.PNG)
+---
+# Responsividade
+ ![pokemon7](https://user-images.githubusercontent.com/85997077/159379588-70cad57c-af3f-4e99-a110-1c9be4ec60d1.PNG)
+
 
